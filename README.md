@@ -5,4 +5,5 @@ The BodyZone Desktop Application development is the implementation of Software E
 It includes Phases of engineering that is reflected in this repository.\
 Phase-1: Abstract, Introduction, Client Details and Group Details\
 Phase-2: Analysis of Existing Systems, Record Interview and its findings[Requirement Analysis]\
-Phase-3: SRS Document  Phase-4: Design Phase(Component Diagram)
+Phase-3: SRS Document\
+Phase-4: Design Phase(Component Diagram)
